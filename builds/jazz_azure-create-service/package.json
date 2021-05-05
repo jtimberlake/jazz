@@ -26,7 +26,7 @@
     "axios": "^0.18.0",
     "@azure/arm-apimanagement": "5.1.0",
     "@azure/arm-cdn": "4.2.0",
-    "@azure/ms-rest-nodeauth": "2.0.3",
+    "@azure/ms-rest-nodeauth": "3.0.8",
     "@azure/arm-eventhub": "3.2.0",
     "@azure/arm-resources": "1.1.0",
     "@azure/arm-servicebus": "3.2.0",
